@@ -1,2 +1,1 @@
-sampletext
-samplesamplesample
+edit from other developer
